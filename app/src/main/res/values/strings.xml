@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nautilus</string>
+    <string name="boton_ruta">Ruta</string>
+    <string name="boton_segundasvueltasrutas">Segundas Vueltas Ruta</string>
+    <string name="boton_servicios">Servicios</string>
+    <string name="boton_segundasvueltasservicios">Segundas Vueltas Servicios</string>
+    <string name="boton_cartera">Cartera</string>
+    <string name="boton_mensajes">Mensajes</string>
+    <string name="boton_recursos">Recursos</string>
+    <string name="boton_utilerias">Utilerias</string>
+    <string name="barra_de_busqueda">Buscar</string>
+</resources>
